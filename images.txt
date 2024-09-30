@@ -1,4 +1,5 @@
 docker.elastic.co/elasticsearch/elasticsearch:sha256-fcf6b29cb00f1db56921e6cb47b506e6a207fcaeae777765dfa733dc007513a6
+redis
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

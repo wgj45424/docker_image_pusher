@@ -1,2 +1,2 @@
-elasticsearch:latest
+elasticsearch:8.15.2
 

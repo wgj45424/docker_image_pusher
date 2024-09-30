@@ -1,1 +1,1 @@
-portainer
+docker.io/portainer/portainer-ce:2.20.3

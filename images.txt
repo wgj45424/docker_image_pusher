@@ -1,1 +1,1 @@
-ghcr.io/outlovecn/portainer-cn:nightly
+kibana:7.12.1

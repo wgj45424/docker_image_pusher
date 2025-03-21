@@ -1,1 +1,1 @@
-1activegeek/airconnect:v1.0
+1activegeek/airconnect

@@ -1,1 +1,1 @@
-philippe44/airconnect:latest
+philippe44/AirConnect

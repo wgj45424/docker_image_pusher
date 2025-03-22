@@ -1,1 +1,1 @@
-xkonni/airconnect
+jellyfin/jellyfin

@@ -1,1 +1,2 @@
-redroid/redroid
+
+    swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/redroid/redroid:12.0.0_64only-latest

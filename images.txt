@@ -1,2 +1,1 @@
-
-    linuxserver/emby:arm32v7-latest
+ embysystems/embyserver:latest

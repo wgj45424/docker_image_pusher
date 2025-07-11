@@ -1,1 +1,1 @@
-zishuo/embyserver
+zishuo/embyserver:arm64v8

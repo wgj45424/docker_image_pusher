@@ -1,1 +1,1 @@
-emby/embyserver:latest
+amilys/embyserver:beta

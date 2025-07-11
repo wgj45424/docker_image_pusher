@@ -1,1 +1,1 @@
-zishuo/embyserver:arm64v8
+emby/embyserver_arm32v7:beta

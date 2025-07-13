@@ -1,1 +1,1 @@
-xiaoyaliu/emby
+nyanmisaka/jellyfin:latest

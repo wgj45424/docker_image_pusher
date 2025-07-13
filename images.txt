@@ -1,1 +1,1 @@
-jellyfin/jellyfin:latest-armhf
+lkw199711/smanga

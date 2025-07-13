@@ -1,1 +1,1 @@
-lkw199711/smanga
+ghcr.io/gaoyifan/smanga:latest-armv7

@@ -1,1 +1,1 @@
-ghcr.io/gaoyifan/smanga:latest
+ linuxserver/ubooquity:arm32v7-latest

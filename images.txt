@@ -1,1 +1,1 @@
-dpvduncan/jellyfin:latest-arm32v7
+hkalexling/mango:v0.27.0

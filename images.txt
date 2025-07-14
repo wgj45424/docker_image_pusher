@@ -1,1 +1,1 @@
-hkalexling/mango:v0.27.0
+difegue/lanraragi:nightly

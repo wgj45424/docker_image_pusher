@@ -1,1 +1,1 @@
-ds1080/jellyfin:latest
+dpvduncan/jellyfin:latest-arm32v7

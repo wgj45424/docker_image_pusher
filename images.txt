@@ -1,1 +1,1 @@
-difegue/lanraragi:nightly
+jvmilazz0/kavita:nightly-0.8.7.2

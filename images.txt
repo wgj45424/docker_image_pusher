@@ -1,1 +1,1 @@
- linuxserver/ubooquity:arm32v7-latest
+ds1080/jellyfin:latest

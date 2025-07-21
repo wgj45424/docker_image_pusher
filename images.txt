@@ -1,1 +1,1 @@
-kizaing/kavita:nightly
+janusgraph/janusgraph:latest

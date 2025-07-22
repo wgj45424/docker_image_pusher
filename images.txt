@@ -1,1 +1,1 @@
-janusgraph/janusgraph:latest
+--platform linux/arm/v7 jvmilazz0/kavita:canary-0.8.7.6

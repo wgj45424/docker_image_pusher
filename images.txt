@@ -1,1 +1,1 @@
-docker pull schklom/mango:arm32v7
+schklom/mango:arm32v7

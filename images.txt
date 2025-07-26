@@ -1,1 +1,1 @@
---platform linux/arm/v7 dezhao/ubooquity:2.1.2
+--platform linux/arm/v7 yindaheng98/picacomic:latest

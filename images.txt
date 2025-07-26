@@ -1,1 +1,1 @@
---platform linux/arm/v7 jvmilazz0/kavita:canary-0.8.7.6
+docker pull schklom/mango:arm32v7

@@ -1,1 +1,2 @@
---platform linux/arm/v7 yindaheng98/picacomic:latest
+--platform linux/arm/v7 superng6/aria2:latest
+

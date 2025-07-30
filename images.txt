@@ -1,3 +1,4 @@
---platform linux/arm/v7 y484v/calibre:20211104
+--platform linux/arm/v7 lsioarmhf/cops:latest
+
 
 

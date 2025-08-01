@@ -1,4 +1,5 @@
---platform linux/arm/v7 andresmoschini/cops:arm32v7-fix1
+--platform linux/arm/v7 freshrss/freshrss:edge
+
 
 
 

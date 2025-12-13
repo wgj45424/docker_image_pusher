@@ -1,6 +1,1 @@
-lampon/omnibox:latest
-
-
-
-
-
+willowgod/pansou-web:latest

@@ -1,1 +1,1 @@
-willowgod/pansou-web:latest
+james212/katelyatv:0.6.0

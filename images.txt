@@ -1,4 +1,4 @@
---platform linux/arm/v7 gotson/komga:1.x
+lampon/omnibox:latest
 
 
 

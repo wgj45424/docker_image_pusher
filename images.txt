@@ -1,1 +1,1 @@
-james212/katelyatv:0.6.0
+ghcr.io/knots3d/web-knots:latest

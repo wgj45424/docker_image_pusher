@@ -1,1 +1,1 @@
-ghcr.io/knots3d/web-knots:latest
+web-knots:latest

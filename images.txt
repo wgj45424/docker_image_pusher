@@ -1,1 +1,1 @@
-registry.gitlab.com/risinglight/knots-static:latest
+yindaheng98/picacomic:latest

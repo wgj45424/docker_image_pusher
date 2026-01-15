@@ -1,1 +1,1 @@
-v1st233/iptv:v3.0.2.9
+kasmweb/telegram:1.18.0-rolling-daily

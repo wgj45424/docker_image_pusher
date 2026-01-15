@@ -1,1 +1,1 @@
-dumfan/telegram:latest
+zzsrv/openwrt:amd64

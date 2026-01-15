@@ -1,1 +1,1 @@
-xorilog/telegram:latest
+dumfan/telegram:latest

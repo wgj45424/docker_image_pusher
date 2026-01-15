@@ -1,1 +1,1 @@
-linuxserver/telegram:6.4.2
+xorilog/telegram:latest

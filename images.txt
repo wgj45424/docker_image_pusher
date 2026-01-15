@@ -1,1 +1,1 @@
-kasmweb/telegram:1.18.0-rolling-daily
+linuxserver/telegram:6.4.2

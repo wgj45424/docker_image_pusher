@@ -1,1 +1,1 @@
-vikiboss/60s:latest
+redroid/redroid:10.0.0-latest

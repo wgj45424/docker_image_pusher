@@ -1,1 +1,1 @@
-zzsrv/openwrt:amd64
+vikiboss/60s:latest

@@ -1,1 +1,1 @@
-redroid/redroid:10.0.0-latest
+redroid/redroid:11.0.0-latest
